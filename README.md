@@ -7,4 +7,5 @@ For example:
 
 <img src = "https://github.com/Dranikf/Goldfield-Quandt_heteroscedasticity_test/blob/main/goldfild_example.JPG">
 
+P-value shows probability of heteroscedasticity.
 'example.xlsm' file contains this example.
